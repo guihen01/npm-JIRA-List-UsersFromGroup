@@ -9,6 +9,9 @@ works with node.js and javascript
 
 npm and node.js must be installed
 
- . package JIRA-List-UsersFromGroup is available on npm. To install it, type:
+ . package JIRA-List-UsersFromGroup is available on npm. 
+ 
+ To install it, type:
+ 
 . $ npm install -- JIRA-List-UsersFromGroup
 
