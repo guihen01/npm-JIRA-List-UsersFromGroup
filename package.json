@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Henri Guillot"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "description": "Get (list) all users from a given JIRA group",
+  "repository": "https://github.com/guihen01/npm-JIRA-List-UsersFromGroup.git",
+  "keywords": [],
+  "license": " GPL-2.0",
+  "main": "app.js",
+  "name": "jira-list-group-users",
+  "version": "1.0.6"
+}
