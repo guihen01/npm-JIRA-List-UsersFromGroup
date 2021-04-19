@@ -5,7 +5,7 @@ get all users from a given JIRA group
 writen in Javascript
 works with node.js and javascript
 
-#installation
+# installation
 
 npm and node.js must be installed
 
