@@ -40,5 +40,5 @@ Test :
     
 # Sample
 
-![alt text](  "Logo Title Text 1")
+![alt text](https://github.com/guihen01/npm-JIRA-List-UsersFromGroup/blob/main/Doc/Capture.GIF  "Logo Title Text 1")
     
