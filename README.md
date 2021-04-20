@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/58epj5k79oajtu55?svg=true)](https://ci.appveyor.com/project/guihen01/npm-jira-list-usersfromgroup)
 # jira-list-group-users
 
 get all users from a given JIRA group 
